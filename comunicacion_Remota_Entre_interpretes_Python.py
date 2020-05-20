@@ -33,4 +33,4 @@ def servidor(direccion, clave):
             traceback.print_exc()
 
 
-servidor(('192.168.0.121', 20064), clave=b'User2k20')
+servidor(('10.10.0.1', 20064), clave=b'User2k20')
